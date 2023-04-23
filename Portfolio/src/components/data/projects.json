@@ -1,0 +1,216 @@
+[{
+        "id": 5,
+        "title": "Listee App [JS\/XML Assignment (APIs, Node.JS, Pug)]",
+        "url": "https:\/\/github.com\/aminrachana\/Listee-App",
+        "slug": "",
+        "image": null,
+        "content": "For the JS\/XML Project, I have made a website for the Travelling Information (using 2 APIs) e.g. It will show the information that you need regarding Hotels and Popular attractions near by the City that you have search.",
+        "type_id": 1,
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 2,
+            "first": "Rachna",
+            "last": "Amin",
+            "email": "rachnakapil18@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Website",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Bookstore (PHP & MySQL Database)",
+        "url": "https:\/\/github.com\/aminrachana\/Bookstore",
+        "slug": "adsasds",
+        "image": null,
+        "content": "I have create a MySQL table to store book list data and then use PHPvariables, arrays and loops to display the Book information on a web page. There is also a delete, add and edit function, so user can add a new book or delete the book from cart.",
+        "type_id": 1,
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 2,
+            "first": "Rachna",
+            "last": "Amin",
+            "email": "rachnakapil18@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Website",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Movie Rental Management System - CRUD (C# , ASP.NET, Entity Framework)",
+        "url": "https:\/\/github.com\/aminrachana\/PassionProject-MovieRental-CRUD",
+        "slug": "adwas",
+        "image": null,
+        "content": "RedBox Movie Rental is designed for Movie Rentals, developed using Entity Framework, that is used to manage the movies rented out by the stores, as well as the list of rentals.        ",
+        "type_id": 1,
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 2,
+            "first": "Rachna",
+            "last": "Amin",
+            "email": "rachnakapil18@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Website",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 10,
+        "title": "E-Commerse Website (Node.JS, MongoDB)",
+        "url": null,
+        "slug": "https:\/\/github.com\/aminrachana\/Aqua-Shop-JAssignment1-",
+        "image": null,
+        "content": "Created a Node.js website (with Express and Pug) containing three pages. This a dummy website for a small business (Aqua Shop - where user can buy different types of product regarding Aquarium accessories, Fish food etc.). Added MongoDB as the data source for product data.",
+        "type_id": 1,
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 2,
+            "first": "Rachna",
+            "last": "Amin",
+            "email": "rachnakapil18@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Website",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 1,
+        "title": "JS\/XML",
+        "url": "https:\/\/github.com\/DisaSoni\/JS-XMLs",
+        "slug": "est-neque-dolorum-sit-hic-molestias-et-repellendus",
+        "image": "https://raw.githubusercontent.com/DisaSoni/img/main/js.png",
+        "content": "This is a small Node.js website(express and pug) and also added MongoDB as the data source for content.",
+        "type_id": 1,
+        "user_id": 1,
+        "created_at": "2023-04-22T14:11:27.000000Z",
+        "updated_at": "2023-04-22T14:11:27.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Website",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 2,
+        "title": "PHP-CRUD",
+        "url": "https:\/\/github.com\/DisaSoni\/PHP--Basic-CRUD",
+        "slug": "quia-nisi-qui-dolores-quidem",
+        "image": "https://raw.githubusercontent.com/DisaSoni/img/main/php%20basic.png",
+        "content": "I created the CRUD function with PHP. and, you can add, delete and update the Database through this CRUD functionality.",
+        "type_id": 1,
+        "user_id": 1,
+        "created_at": "2023-04-22T14:11:27.000000Z",
+        "updated_at": "2023-04-22T14:11:27.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Website",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Passion-Project(C# Web API)",
+        "url": "https:\/\/github.com\/DisaSoni\/PassionProject.TravelWorlds",
+        "slug": "autem-provident-consequuntur-vitae",
+        "image": "https://raw.githubusercontent.com/DisaSoni/img/main/Passionproject1.png",
+        "content": "This is a C# Web API Project using CRUD(create, read, update, delete) functionality with worked in Entity Framework.",
+        "type_id": 1,
+        "user_id": 1,
+        "created_at": "2023-04-22T14:11:27.000000Z",
+        "updated_at": "2023-04-22T14:11:27.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Website",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 4,
+        "title": "C# Hospital CMS",
+        "url": "http:\/\/github.com\/Hospital-CMS/Hospital-CMS/tree/feature/doctor_specialization_2",
+        "slug": "quia-id-omnis-sunt-quaerat",
+        "image": "https://raw.githubusercontent.com/DisaSoni/img/main/c%23%20hospisal.jpeg",
+        "content": "The Civic Hospital Management System (CHMS) is a web application, that is designed to handle all the activities of clinic workflow like medical, financial, legal, administrative, healthcare performance by using Entity framework. Besides, it also converts all paper works into digital form. Hospital Management System is powerful, flexible, and easy to use and is designed and developed to deliver real conceivable benefits to hospitals. It is built using Entity framework, which allows for efficient management of patient records, financial records, legal records, administrative records, and healthcare performance. The system provides several features that make it easy for hospitals to manage their operations, while also delivering real benefits to patients.",
+        "user_id": 1,
+        "created_at": "2023-04-22T14:11:27.000000Z",
+        "updated_at": "2023-04-22T14:11:27.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Website",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    }
+]

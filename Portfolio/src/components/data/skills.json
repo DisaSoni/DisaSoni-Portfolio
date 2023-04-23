@@ -1,0 +1,305 @@
+[{
+        "id": 9,
+        "name": "Html",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Css",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "JavaScript",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "React",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Java",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 10,
+        "name": "C++",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 11,
+        "name": "C#",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 12,
+        "name": "C",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 13,
+        "name": "jQuery",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 14,
+        "name": "NodeJS",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 15,
+        "name": "PHP",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 16,
+        "name": "MongoDB",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "MySQL",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Software testing",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Agile methodology",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Framework",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 20,
+        "name": "API",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Figma",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Adobe",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    }
+]

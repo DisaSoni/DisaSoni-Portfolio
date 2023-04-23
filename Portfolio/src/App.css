@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.banner {
+    height: 700px;
+    color: #05364d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+    padding: 30px 25px;
+}
+
+.title {
+    font-size: 60px;
+}
+
+.title img {
+    height: 50px;
+}
+
+.interest {
+    font-size: 30px;
+}
+
+section {
+    padding: 100px 0;
+}
+
+#about {}
+
+#certificates .card {
+    padding: 15px 10px;
+}
+
+.badge {
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.avatar {
+    height: 360px;
+}
+
+#about .topic,
+#about .desc {
+    color: #797979;
+}
+
+#footer {
+    background-color: #021117;
+    padding: 100px;
+}
+
+#copyright {
+    color: #fff;
+}

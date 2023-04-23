@@ -1,0 +1,101 @@
+[{
+        "id": 1,
+        "institution": "Humber College",
+        "degree": "Ontario Graduation Certification Course",
+        "course": "Web development",
+        "start_year": "2022",
+        "end_year": "2023",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 2,
+        "institution": "Techno Canada",
+        "degree": "Certification in Software Testing",
+        "course": "Software Testing",
+        "start_year": "2019 ",
+        "end_year": "2020",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 3,
+        "institution": "Rai University",
+        "degree": "B.Tech Computer Science and Engineering",
+        "course": "Computer engineering",
+        "start_year": "2013",
+        "end_year": "2017",
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 1,
+            "first": "Disa",
+            "last": "Soni",
+            "email": "disasoni09@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 4,
+        "institution": "Humber College",
+        "degree": "Post-Graduate Certificate",
+        "course": "Web development",
+        "start_year": "2022",
+        "end_year": "2023",
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 2,
+            "first": "Rachna",
+            "last": "Amin",
+            "email": "rachnakapil18@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    },
+    {
+        "id": 5,
+        "institution": "Dairy Science College",
+        "degree": "Bachelor of Technology",
+        "course": "IT",
+        "start_year": "2011",
+        "end_year": "2015",
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "user": {
+            "id": 2,
+            "first": "Rachna",
+            "last": "Amin",
+            "email": "rachnakapil18@gmail.com",
+            "email_verified_at": "2023-04-22T14:11:27.000000Z",
+            "created_at": "2023-04-22T14:11:27.000000Z",
+            "updated_at": "2023-04-22T14:11:27.000000Z"
+        }
+    }
+]
